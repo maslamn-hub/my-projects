@@ -22,7 +22,7 @@ I am a B.Tech Computer Science Engineering student passionate about technology, 
 
 ## Featured Projects
 
-### Crafting Channel Website
+### Creative Showcase Website
 
 A website developed using HTML and CSS for a paper crafting content channel.
 
