@@ -14,7 +14,7 @@ This repository contains a collection of projects, experiments, and practice wor
 
 ## Purpose
 
-The purpose of this repository is to document my learning journey, strengthen my technical skills, and demonstrate my growth as an aspiring software developer. Each project represents a step toward gaining practical experience and building real-world solutions.
+The purpose of this repository is to document my learning journey, strengthen my technical skills, and demonstrate my growth as an aspiring software developer. Each project represents a step toward gaining practical experience and applying concepts learned through coursework and self-study.
 
 ## Technologies I'm Learning
 
@@ -29,16 +29,21 @@ The purpose of this repository is to document my learning journey, strengthen my
 
 ## Current Projects
 
-* Personal Portfolio Website
-* Python Calculator
+### Crafting Channel Website
+
+A website developed using HTML and CSS for a paper crafting content channel. This project helped me improve my understanding of webpage structure, styling, and front-end development fundamentals.
+
+### Python Calculator
+
+A calculator application built using Python that performs basic arithmetic operations and demonstrates fundamental programming concepts such as user input handling, functions, and conditional logic.
 
 ## Goals
 
-* Build real-world web applications
-* Improve problem-solving and programming skills
-* Learn modern development tools and technologies
+* Build more real-world web development projects
+* Strengthen my programming and problem-solving skills
+* Learn JavaScript and modern web technologies
 * Explore cloud computing concepts and platforms
-* Prepare for software development internships
+* Prepare for software development and web development internships
 
 ## More Projects Coming Soon 🚀
 
